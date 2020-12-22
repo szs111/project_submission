@@ -1,0 +1,2 @@
+客户端编译命令: (在客户端文件夹使用)
+arm-linux-gcc *.c –o main –lpthread  -L./ -lfont  -lm
