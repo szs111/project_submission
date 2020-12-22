@@ -1,0 +1,1 @@
+arg-linux-gcc *.c -o main  -lpthread -L./ -lfont  -lm
